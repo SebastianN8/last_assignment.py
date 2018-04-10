@@ -4,7 +4,7 @@
 # Created by: Sebastian N
 # Created on: April 8
 #
-# This program does loops
+# This program does loops to make the user guess the actual second in the current minute
 
 # Including time module
 import time;
